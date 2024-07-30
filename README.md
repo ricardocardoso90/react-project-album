@@ -1,14 +1,17 @@
-# Api de Albuns com Axios.
+## Projeto: Álbum
 
-Projeto desenvolvido durante o Curso B7Web.
+**Tecnologias utilizadas:**
 
-Tecnologias utilizadas: React + TypeScript.
+- [Typescript]()
+- [Axios]()
+- [React Navigation]()
+- [React Router Dom]()
 
-### Instalação:
+## Instalação:
 
-- `npm install`
+- `npm create vite@latest`
+- `npm i ou npm install`
 
-### Para rodar:
+## Para rodar:
 
-- `npm start`
-- `npm run start`
+- `npm run dev`
